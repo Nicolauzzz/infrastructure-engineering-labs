@@ -92,7 +92,3 @@ dcomctl reset-lab quiz-3.1
     user dari batas grup sesuai konfigurasi dan mekanisme penerapan
     limit.
 
-## Bukti
-
-Simpan screenshot hasil grading 100/100 di folder `evidence/` pada
-repositori GitHub.
